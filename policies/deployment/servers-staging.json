@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project1-echo-server",
+            "name": "docker.io/burgoyn1/oss-na24-slsa-workshop-project1-echo-server",
             "environment": {
                 "any_of": [
                     "staging"
@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project2-another-server",
+            "name": "docker.io/burgoyn1/oss-na24-slsa-workshop-project2-another-server",
             "environment": {
                 "any_of": [
                     "staging"
@@ -24,7 +24,7 @@
             }
         },
         {
-            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project3-another-server",
+            "name": "docker.io/burgoyn1/oss-na24-slsa-workshop-project3-another-server",
             "environment": {
                 "any_of": [
                     "staging"
